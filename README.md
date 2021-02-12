@@ -27,3 +27,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+1. I was not able to properly install CocoaPods and had to use an alternative method in order to do so. I had to install it using Homebrew, which included multiple steps because there were updated to be made to the Homebrew installation as well. 
+
+2. I couldn't figure out how to connect Xcode and GitHub using Source Control in Xcode. I later found out that I had to click on "Create new github repository" under the Source Control tab in Xcode.  
