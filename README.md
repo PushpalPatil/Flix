@@ -2,7 +2,26 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [X] (5pts) User can tap a cell to see more details about a particular movie.
+- [X] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://recordit.co/izCaMpHbU7`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+
+<img src="https://recordit.co/izCaMpHbU7" width=250><br>
+
+### Notes
+I had trouble figuring out that the API key does not change for the Superhero Network tab. I just had to tweak the URL, not the API key.
+
 
 ---
 
@@ -21,12 +40,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `http://g.recordit.co/moxRtuvmyq.gif`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `http://g.recordit.co/yKlLLgHv3q.gif`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="http://g.recordit.co/moxRtuvmyq.gif" width=250><br>
+<img src="http://g.recordit.co/yKlLLgHv3q.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
-1. I was not able to properly install CocoaPods and had to use an alternative method in order to do so. I had to install it using Homebrew, which included multiple steps because there were updated to be made to the Homebrew installation as well. 
-
-2. I couldn't figure out how to connect Xcode and GitHub using Source Control in Xcode. I later found out that I had to click on "Create new github repository" under the Source Control tab in Xcode.  
