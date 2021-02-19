@@ -15,9 +15,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://recordit.co/izCaMpHbU7`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `http://g.recordit.co/izCaMpHbU7.gif`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/izCaMpHbU7" width=250><br>
+<img src="http://g.recordit.co/izCaMpHbU7.gif" width=250><br>
 
 ### Notes
 I had trouble figuring out that the API key does not change for the Superhero Network tab. I just had to tweak the URL, not the API key.
